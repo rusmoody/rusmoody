@@ -31,6 +31,6 @@ More repos coming soon — I'm currently publishing my client work (Telegram bot
 
 ## 📫 Contact
 
-- Telegram: [@your_handle](https://t.me/doomieguy)
+- Telegram: [@doomieguy](https://t.me/doomieguy)
 - Email: rus.moody@gmail.com
 - LinkedIn: coming soon
