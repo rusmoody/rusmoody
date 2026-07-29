@@ -28,6 +28,5 @@ More repos coming soon — I'm currently publishing my client work (Telegram bot
 
 ## 📫 Contact
 
-- Telegram: [@doomieguy](https://t.me/doomieguy)
 - Email: rus.moody@gmail.com
 - LinkedIn: [ruslan-kudryavtsev](https://linkedin.com/in/ruslan-kudryavtsev-2653633bb)
